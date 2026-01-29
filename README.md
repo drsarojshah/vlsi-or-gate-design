@@ -6,7 +6,7 @@ Designed and verified a 3-input CMOS OR-Gate using Cadence Virtuoso 45 nm proc
 📅 **Course**: VLSI Design  
 🏫 **Institution**: University at Albany, SUNY  
 👨‍🏫 **Instructor**: Professor James R. Moulic  
-🛠️ **Tools Used**: Cadence Virtuoso (gpdk045), DRC, Simulation, Maestro
+🛠️ **Platform**: Cadence Virtuoso (gpdk045), DRC, Simulation, Maestro
 
 ---
 
