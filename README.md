@@ -40,7 +40,7 @@ This project involves the schematic design, layout, and simulation of a CMOS 3-i
 
 ## 📥 Final Report
 
-📘 [Download Final Report (PDF)](Report/Saroj_DE6_OR_Gate_Cad_Virtuoso_v2.pdf)
+📘 [Download Final Report (PDF)](Report/OR_Gate_Cad_Virtuoso_v2.pdf)
 
 ---
 
@@ -51,7 +51,7 @@ This project involves the schematic design, layout, and simulation of a CMOS 3-i
 │ ├── Layout_DRC_Pass.png
 │ ├── Timing_Verification.png
 ├── Report/
-│ └── Saroj_DE6_OR_Gate_Cad_Virtuoso_v2.pdf
+│ └── OR_Gate_Cad_Virtuoso_v2.pdf
 ├── README.md
 ```
 
@@ -59,7 +59,7 @@ This project involves the schematic design, layout, and simulation of a CMOS 3-i
 
 ## 📥 Downloads
 
-- 📘 [Final Report (PDF)](MP_Final_Report.pdf)  
+- 📘 [Final Report (PDF)](OR_Gate_Cad_Virtuoso_v2.pdf)  
 - 🌐 [Portfolio Website](https://drsarojshah.github.io)  
 
 ---
