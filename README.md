@@ -1,4 +1,4 @@
-# vlsi_or_gate_design
+# vlsi-or-gate-design
 Designed and verified a 3-input CMOS OR-Gate using Cadence Virtuoso 45 nm process
 # VLSI Project: CMOS 3-Input OR Gate Design (45 nm)
 
