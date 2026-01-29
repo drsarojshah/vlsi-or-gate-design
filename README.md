@@ -64,7 +64,7 @@ This project involves the schematic design, layout, and simulation of a CMOS 3-i
 ## 📥 Downloads
 
 - 📘 [Final Report (PDF)](OR_Gate_Cad_Virtuoso_v2.pdf)  
-- 🌐 [Portfolio Website](https://drsarojshah.github.io)  
+- 🔗 [View on GitHub](https://github.com/drsarojshah/vlsi-or-gate-design)  
 
 ---
 
@@ -72,5 +72,5 @@ This project involves the schematic design, layout, and simulation of a CMOS 3-i
 
 - 📧 Email: engsarojshah@gmail.com 
 - 🔗 LinkedIn: [linkedin.com/in/saroj-s-763265226](https://linkedin.com/in/saroj-s-763265226)
-
+- 🌐 [Portfolio Website](https://drsarojshah.github.io)
 ---
