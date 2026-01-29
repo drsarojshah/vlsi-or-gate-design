@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      ss819183
+HostName                       ceashpc-05.rit.albany.edu
+ProcessIdentifier              50950
+ProcessCreationTime_UTC        1763738475
+ProcessCreationTime_Readable   Fri Nov 21 10:21:15 2025 EST
+AppIdentifier                  /network/rit/misc/software/cadence/IC23.1/tools.lnx86/dfII/bin/64bit/virtuoso
+OSType                         lnx86
+ReasonForPlacingEditLock       
+FilePathUsedToEditLock         /network/rit/home/ss819183/cadence/Test_DE6_2/OR_Gate_3_Input/physConfig/physExpand.cfg
+TimeEditLocked                 Fri Nov 21 10:22:26 2025 EST

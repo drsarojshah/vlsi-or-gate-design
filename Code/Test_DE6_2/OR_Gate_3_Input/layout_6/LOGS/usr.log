@@ -1,0 +1,10 @@
+Pegasus 23.26-s005 yR5+5JOGoFD41eqkI3/4VA 2025-11-21 10:38:59 11733 ceashpc-05.rit.albany.edu
+Copyright 2024 Cadence Design Systems, Inc.
+All rights reserved worldwide.
+
+INFO:    Command Line Options: --log_dir LOGS -top_cell OR_Gate_3_Input -ui_data --control /network/rit/home/ss819183/cadence/Test_DE6_2/OR_Gate_3_Input/layout_6/pegasusdrcctl /network/rit/home/ss819183/cadence/Test_DE6_2/OR_Gate_3_Input/layout_6/.technology.rul
+INFO:    Launch host CPU: Model: Intel(R) Xeon(R) CPU E5-2680 v4 @ 2.40GHz, OS: Oracle Linux Server release 7.9, Logical cores: 56, Physical cores: 28, Cache: 35840 KB, CPU Speed: 2613.69 MHz
+         Launch host Memory: MemTotal: 257626 MB,  MemFree: 248473 MB,  SwapTotal: 4095 MB,  SwapFree: 4095 MB,  VmallocTotal: 33554431 MB,  VmallocUsed: 0 MB
+INFO:    Current path: /network/rit/home/ss819183/cadence/Test_DE6_2/OR_Gate_3_Input/layout_6
+INFO:    Run directory same as current path
+INFO:    Log directory: /network/rit/home/ss819183/cadence/Test_DE6_2/OR_Gate_3_Input/layout_6/LOGS

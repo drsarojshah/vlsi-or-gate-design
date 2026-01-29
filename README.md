@@ -30,7 +30,7 @@ This project involves the schematic design, layout, and simulation of a CMOS 3-i
 
 ### 🔧 Layout with DRC Pass
 
-![Layout](Cadence_Layout/Layout_DRC_Pass.png)
+![Layout](Cadence_Layout/Layout.png)
 
 ### 📈 Simulation Timing Results
 
@@ -47,6 +47,7 @@ This project involves the schematic design, layout, and simulation of a CMOS 3-i
 ## 📂 File Structure
 
 ```
+├── Code
 ├── Cadence_Layout/
 │ ├── Layout.png
 │ ├── Detail_Layout.png
